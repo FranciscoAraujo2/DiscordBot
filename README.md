@@ -7,7 +7,7 @@
 
 # Cogs
 
-```
+```py
 extensions = []
 directory = 'cogs'
 for file in os.listdir(directory):
