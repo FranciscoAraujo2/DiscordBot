@@ -26,3 +26,22 @@ for extension in extensions:
     bot.load_extension(extension)
     print(f'{extension} loaded!')
 ```
+
+#Exemple command
+
+```py 
+
+class PingCommand(commands.Cog):
+
+    def __init__(self, bot: commands.Bot):
+        self.bot = bot
+
+    #!PING
+    @commands.slash_command(name='ping', description='ping')
+    async def ping(self, ctx: disnake.ApplicationCommandInteraction):
+        await ctx.send("pong!")
+    
+def setup(bot: commands.Bot):
+    bot.add_cog(PingCommand(bot))
+
+```
