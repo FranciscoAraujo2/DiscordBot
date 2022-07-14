@@ -9,9 +9,9 @@
 
 | Systems | Description |
 | --- | --- |
-| Economy | Lista de todos os arquivos modificados ou novos |
-| Moderation | Mostra as diferenças do arquivo que não foram preparadas |
-| Fun | Mostra as diferenças do arquivo que não foram preparadas |
+| Economy | Now you can work with the bot |
+| Moderation | Protect your server with our system |
+| Fun | Have fun with your friends |
 
 # Cogs
 
