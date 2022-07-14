@@ -18,3 +18,10 @@ for extension in extensions:
     bot.load_extension(extension)
     print(f'{extension} loaded!')
 ```
+
+
+| Systems | Description |
+| --- | --- |
+| Economy | Lista de todos os arquivos modificados ou novos |
+| Moderation | Mostra as diferenças do arquivo que não foram preparadas |
+| Fun | Mostra as diferenças do arquivo que não foram preparadas |
