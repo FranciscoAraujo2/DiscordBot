@@ -13,7 +13,7 @@
 | Moderation | Protect your server with our system |
 | Fun | Have fun with your friends |
 
-# Cogs
+## Cogs
 
 ```py
 extensions = []
@@ -27,7 +27,7 @@ for extension in extensions:
     print(f'{extension} loaded!')
 ```
 
-# Exemple command
+## Exemple command
 
 ```py 
 
