@@ -17,10 +17,10 @@
 # Commands
 
 ## Comon
-[x]Help
-[x]Help
-[x]Profile
-[]Say
+- [x]Help
+- [x]Help
+- [x]Profile
+- []Say
 
 ## Cogs
 
