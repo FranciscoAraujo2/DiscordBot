@@ -12,17 +12,17 @@
 | Comon | You can now use the bot economy |
 | Economy | You can now use the bot economy |
 | Moderation | Protect your server with our system |
-| Fun | Have fun with your friends |
+| Fun | - [x] Help | Have fun with your friends
 
 # Commands
 
 <p> Comon <p>
     
      
-- [x] Help   - [x] Help
-- [x] Ping   - [x] Help
-- [ ] Say    - [x] Help
-- [x] Profile - [x] Help 
+- [x] Help
+- [x] Ping   
+- [ ] Say    
+- [x] Profile 
 
 ## Cogs
 
