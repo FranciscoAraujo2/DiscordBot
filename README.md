@@ -9,9 +9,11 @@
 
 | Systems | Description |
 | --- | --- |
-| Economy | Now you can work with the bot |
+| Economy | [x]Help |
 | Moderation | Protect your server with our system |
 | Fun | Have fun with your friends |
+
+
 
 ## Cogs
 
