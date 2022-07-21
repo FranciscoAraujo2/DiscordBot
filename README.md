@@ -21,7 +21,7 @@
     
 - [x] Help
 - [x] Ping
-- [] Say
+- [ ] Say
 - [x] Profile
 
 ## Cogs
