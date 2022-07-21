@@ -16,11 +16,15 @@
 
 # Commands
 
-## Comon
-- [x]Help
-- [x]Help
-- [x]Profile
-- []Say
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
 
 ## Cogs
 
