@@ -18,11 +18,11 @@
 
 <p> Comon <p>
     
-    
-- [x] Help
-- [x] Ping
-- [ ] Say
-- [x] Profile
+     
+- [x] Help   - [x] Help
+- [x] Ping   - [x] Help
+- [ ] Say    - [x] Help
+- [x] Profile - [x] Help 
 
 ## Cogs
 
