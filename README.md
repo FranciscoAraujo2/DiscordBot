@@ -9,11 +9,18 @@
 
 | Systems | Description |
 | --- | --- |
-| Economy | [x]Help |
+| Comon | You can now use the bot economy |
+| Economy | You can now use the bot economy |
 | Moderation | Protect your server with our system |
 | Fun | Have fun with your friends |
 
+# Commands
 
+## Comon
+[x]Help
+[x]Help
+[x]Profile
+[]Say
 
 ## Cogs
 
