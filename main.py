@@ -13,7 +13,7 @@ async def on_ready():
     await bot.change_presence(status=disnake.Status.idle, activity=game)
    
 extensions = []
-directory = 'cogs'
+directory = 'commands'
 for file in os.listdir(directory):
     if file.endswith('.py'):
         extensions.append(f'{directory}.{file[:-3]}')
