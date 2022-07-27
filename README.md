@@ -28,7 +28,7 @@ for extension in extensions:
     print(f'{extension} loaded!')
 ```
 
-## Exemple command
+## Example command
 
 ```py 
 
